@@ -9,6 +9,8 @@ Warnings: It's best NOT to run the generation process within the engine. DO NOT 
 And.. I don't know how this work in new version Godot
 
 
+If you want to DOWNLOAD my project: I left a release that contains a zip folder of my project along with an executable file and other things.
+
 Anyway, thanks for reading. This project is unlikely to be updated, unlike pig and pancakes, but if you encounter any problems, don't hesitate to post in the discussions.
 And more screens:
 <img width="1416" height="672" alt="RandomSwineDraw_art" src="https://github.com/user-attachments/assets/6e64b3e8-ba2d-403d-85e0-e034ceec5461" />
